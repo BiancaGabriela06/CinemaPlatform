@@ -14,5 +14,6 @@ For the UserApp, CinemaGoer, Award, and Review objects, we have created CRUD ope
 which are included in methods in MainService.
 ```
 ```
-The application has an audit service (AuditService) that writes to an audit file (data/audit.csv, data/cinemagoer.csv, etc.).
+The application has an audit service (AuditService) that writes to an audit file (data/audit.csv, data/cinemagoer.csv,
+etc.).
 ```
